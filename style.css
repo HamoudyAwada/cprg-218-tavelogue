@@ -5,7 +5,7 @@ header{
 }
 
 header h1{
-    font-size: 3rem;
+    font-size: 2.3rem;
     margin: 0rem;
 }
 
@@ -13,14 +13,16 @@ header p{
     font-size: 1.5rem;
     margin-right: 10%;
     margin-left: 10%;
-    margin-bottom: 0;
+    margin-bottom: 0.5%;
+    padding-bottom: 0.5rem;
 }
 
 h2{
     font-size: 2rem;
     text-decoration: underline;
     color: white;
-justify-content: center;}
+    justify-content: center;
+}
 
 .even-stops{
     display: flex;
